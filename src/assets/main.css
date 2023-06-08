@@ -1,0 +1,9 @@
+@import './reset.css';
+#app {
+    user-select: none;
+}
+.btn {
+    min-width: 50px;
+    border-radius: 6px;
+    background-color: #fff;
+}
